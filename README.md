@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f452d1de-6887-4d96-ba36-ccc349e7026c)# MTA-GTFS-Data-Warehouse
+# MTA-GTFS-Data-Warehouse
 
 This project implements a complete ETL pipeline and analytical workflow for the MTA Brooklyn bus network using GTFS (General Transit Feed Specification) data. The pipeline includes raw data ingestion, transformation using Python (Pandas and Snowpark), and loading into Snowflake to build a scalable and query-efficient data warehouse. The goal of this project is to enable rich transit analysis, including visualizing stop-level travel times, identifying high-latency routes, and enabling peak-hour diagnostics. Tableau serves as the BI layer for interactive dashboards that support operational insights and route optimization across Brooklyn’s bus system.
 
